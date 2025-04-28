@@ -1,50 +1,47 @@
-# Wiki de Hábitos
+# Habit Formation Wiki
 
-Esta é uma wiki organizada sobre metodologias de formação de hábitos, com foco especial em Atomic Habits e Elastic Habits.
+A comprehensive wiki about habit formation, focusing on Atomic Habits and Elastic Habits methodologies.
 
-## Estrutura do Projeto
+## Project Structure
 
 ```
 .
-├── index.md                  # Página inicial da wiki
-├── atomic-habits/            # Seção sobre Atomic Habits
-│   ├── visao-geral.md        # Visão geral do método
-│   ├── 4-leis.md            # As 4 leis da mudança
-│   └── exemplos.md          # Exemplos práticos
-├── elastic-habits/           # Seção sobre Elastic Habits
-│   ├── visao-geral.md       # Visão geral do método
-│   ├── tutorial.md          # Tutorial prático
-│   └── exemplos.md          # Exemplos práticos
-├── comparacao/              # Seção de comparação
-│   └── atomic-vs-elastic-habits.md
-└── recursos/                # Recursos adicionais
-    ├── ferramentas.md       # Ferramentas úteis
-    ├── templates/          # Templates para download
-    └── artigos.md          # Artigos relacionados
+├── docs/                    # Documentation
+│   ├── atomic-habits/      # Atomic Habits content
+│   ├── elastic-habits/     # Elastic Habits content
+│   ├── comparison/         # Comparison between methodologies
+│   ├── resources/          # Additional resources
+│   │   ├── briefs/        # Quick summaries
+│   │   ├── tools/         # Habit formation tools
+│   │   └── articles/      # Related articles
+│   └── index.md           # Main index
+├── assets/                 # Supporting files
+│   ├── elastic-habits.pdf
+│   ├── elastic-habits.txt
+│   └── elastic-habits-content.md
+└── README.md              # This file
 ```
 
-## Como Usar
+## Usage
 
-1. Comece pelo `index.md` para uma visão geral
-2. Explore as seções que mais interessam
-3. Use os recursos práticos para implementação
-4. Consulte os artigos para aprofundamento
+1. Navigate through the `docs` directory to find specific content
+2. Use the `index.md` as a starting point
+3. Check the `resources` section for additional materials
 
-## Contribuição
+## Contributing
 
-Esta wiki está em constante evolução. Para contribuir:
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/amazing-feature`)
+3. Commit your changes (`git commit -m 'feat: add amazing feature'`)
+4. Push to the branch (`git push origin feature/amazing-feature`)
+5. Open a Pull Request
 
-1. Clone o repositório
-2. Crie uma branch para sua contribuição
-3. Faça suas alterações
-4. Envie um pull request
+## License
 
-## Licença
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-Este conteúdo está disponível sob a licença Creative Commons Attribution-ShareAlike 4.0 International.
+## Maintainer
 
-## Mantenedores
-
-- [Seu Nome](mailto:seu@email.com)
+[Your Name] - [Your Email]
 
 *Última atualização: 17 de fevereiro de 2025* 
