@@ -1,33 +1,33 @@
-# Wiki de Hábitos
+# Wiki de Formação de Hábitos
 
 ## Sobre
 Esta wiki reúne informações sobre diferentes metodologias de formação de hábitos, com foco especial em Atomic Habits e Elastic Habits.
 
 ## Conteúdo
 
-### [Atomic Habits vs Elastic Habits](/comparacao/atomic-vs-elastic-habits)
+### [Atomic Habits vs Elastic Habits](/docs/comparison/atomic-vs-elastic-habits)
 Comparação detalhada entre as duas metodologias de formação de hábitos.
 
-### [Elastic Habits](/elastic-habits)
-- [Visão Geral](/elastic-habits/visao-geral)
-- [Tutorial Prático](/elastic-habits/tutorial)
-- [Exemplos](/elastic-habits/exemplos)
+### [Elastic Habits](/docs/elastic-habits)
+- [Visão Geral](/docs/elastic-habits/overview)
+- [Tutorial Prático](/docs/elastic-habits/practical-tutorial)
+- [Exemplos](/docs/elastic-habits/examples)
 
-### [Atomic Habits](/atomic-habits)
-- [Visão Geral](/atomic-habits/visao-geral)
-- [4 Leis da Mudança](/atomic-habits/4-leis)
-- [Exemplos](/atomic-habits/exemplos)
+### [Atomic Habits](/docs/atomic-habits)
+- [Visão Geral](/docs/atomic-habits/overview)
+- [4 Leis da Mudança](/docs/atomic-habits/4-laws)
+- [Exemplos](/docs/atomic-habits/examples)
 
-### [Recursos](/recursos)
-- [Ferramentas](/recursos/ferramentas)
-- [Templates](/recursos/templates)
-- [Artigos Relacionados](/recursos/artigos)
+### [Recursos](/docs/resources)
+- [Resumos Rápidos](/docs/resources/briefs)
+- [Ferramentas](/docs/resources/tools)
+- [Artigos Relacionados](/docs/resources/articles)
 
 ## Como Usar Esta Wiki
-1. Comece pela [Visão Geral](/elastic-habits/visao-geral) se você é novo no assunto
-2. Explore os [exemplos](/elastic-habits/exemplos) para entender a aplicação prática
-3. Use o [tutorial](/elastic-habits/tutorial) para começar a implementar
-4. Consulte a [comparação](/comparacao/atomic-vs-elastic-habits) para escolher o método mais adequado
+1. Comece pela [Visão Geral](/docs/elastic-habits/overview) se você é novo no assunto
+2. Explore os [exemplos](/docs/elastic-habits/examples) para entender a aplicação prática
+3. Use o [tutorial](/docs/elastic-habits/practical-tutorial) para começar a implementar
+4. Consulte a [comparação](/docs/comparison/atomic-vs-elastic-habits) para escolher o método mais adequado
 
 ## Contribuição
 Esta wiki está em constante evolução. Sinta-se à vontade para sugerir melhorias ou adicionar conteúdo.
